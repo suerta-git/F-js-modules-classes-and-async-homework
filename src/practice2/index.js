@@ -1,2 +1,2 @@
-export { Person } from "./Person";
-export { Student } from "./Student";
+export { Person } from './Person';
+export { Student } from './Student';
